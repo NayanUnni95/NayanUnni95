@@ -1,4 +1,9 @@
 ### Hi there 👋
+~ whoami
+> Just another guy who likes to code
+> 
+~ About Me
+> Half-time developer, Full-time student, Some-time normal person...
 
 <!--
 **NayanUnni95/NayanUnni95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
