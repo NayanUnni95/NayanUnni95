@@ -7,6 +7,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1817](https://github.com/gtech-mulearn/mulearn/pull/1817) in [gtech-mulearn/mulearn](https://github.com/gtech-mulearn/mulearn)
+2. ❗ Opened issue [#1816](https://github.com/gtech-mulearn/mulearn/issues/1816) in [gtech-mulearn/mulearn](https://github.com/gtech-mulearn/mulearn)
+3. 💪 Opened PR [#2681](https://github.com/rupali-codes/LinksHub/pull/2681) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 💪 Opened PR [#2680](https://github.com/rupali-codes/LinksHub/pull/2680) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. 💪 Opened PR [#2679](https://github.com/rupali-codes/LinksHub/pull/2679) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 <!--
