@@ -1,9 +1,14 @@
 ### Hi there 👋
+
 ~ whoami
+
 > Just another guy who likes to code
->
-> 
-<!-- 
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--
 ~ About Me
 > Half-time developer, Full-time student, Some-time normal person...
 
