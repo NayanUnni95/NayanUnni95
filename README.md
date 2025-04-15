@@ -7,11 +7,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2689](https://github.com/rupali-codes/LinksHub/issues/2689) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. ❗ Opened issue [#2688](https://github.com/rupali-codes/LinksHub/issues/2688) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. ❗ Opened issue [#1](https://github.com/thekhalidsha/easy-fullscreen/issues/1) in [thekhalidsha/easy-fullscreen](https://github.com/thekhalidsha/easy-fullscreen)
-4. 💪 Opened PR [#1817](https://github.com/gtech-mulearn/mulearn/pull/1817) in [gtech-mulearn/mulearn](https://github.com/gtech-mulearn/mulearn)
-5. ❗ Opened issue [#1816](https://github.com/gtech-mulearn/mulearn/issues/1816) in [gtech-mulearn/mulearn](https://github.com/gtech-mulearn/mulearn)
+1. 💪 Opened PR [#2697](https://github.com/rupali-codes/LinksHub/pull/2697) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. ❗ Opened issue [#2696](https://github.com/rupali-codes/LinksHub/issues/2696) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. ❗ Opened issue [#2689](https://github.com/rupali-codes/LinksHub/issues/2689) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. ❗ Opened issue [#2688](https://github.com/rupali-codes/LinksHub/issues/2688) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. ❗ Opened issue [#1](https://github.com/thekhalidsha/easy-fullscreen/issues/1) in [thekhalidsha/easy-fullscreen](https://github.com/thekhalidsha/easy-fullscreen)
 <!--END_SECTION:activity-->
 
 <!--
