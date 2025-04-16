@@ -7,11 +7,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2668](https://github.com/rupali-codes/LinksHub/issues/2668) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-2. 🗣 Commented on [#2696](https://github.com/rupali-codes/LinksHub/issues/2696#issuecomment-2808151606) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-3. 💪 Opened PR [#2697](https://github.com/rupali-codes/LinksHub/pull/2697) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-4. ❗ Opened issue [#2696](https://github.com/rupali-codes/LinksHub/issues/2696) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
-5. ❗ Opened issue [#2689](https://github.com/rupali-codes/LinksHub/issues/2689) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+1. 🗣 Commented on [#2689](https://github.com/rupali-codes/LinksHub/issues/2689#issuecomment-2808160300) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+2. 🔒 Closed issue [#2668](https://github.com/rupali-codes/LinksHub/issues/2668) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+3. 🗣 Commented on [#2696](https://github.com/rupali-codes/LinksHub/issues/2696#issuecomment-2808151606) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+4. 💪 Opened PR [#2697](https://github.com/rupali-codes/LinksHub/pull/2697) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
+5. ❗ Opened issue [#2696](https://github.com/rupali-codes/LinksHub/issues/2696) in [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub)
 <!--END_SECTION:activity-->
 
 <!--
