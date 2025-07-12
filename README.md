@@ -1,9 +1,9 @@
 ### Hi there 👋
-
 ~ whoami
 
 > Just another guy who likes to code
 
+![](https://komarev.com/ghpvc/?username=NayanUnni95&color=blue)
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
