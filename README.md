@@ -7,8 +7,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/sunithvs/devb.io/issues/96#issuecomment-2920130067) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
-2. 🗣 Commented on [#96](https://github.com/sunithvs/devb.io/issues/96#issuecomment-2920053088) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
+1. 💪 Opened PR [#364](https://github.com/TheByteFlow/Inker/pull/364) in [TheByteFlow/Inker](https://github.com/TheByteFlow/Inker)
+2. ❗ Opened issue [#363](https://github.com/TheByteFlow/Inker/issues/363) in [TheByteFlow/Inker](https://github.com/TheByteFlow/Inker)
 3. 🗣 Commented on [#96](https://github.com/sunithvs/devb.io/issues/96#issuecomment-2913357867) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 4. 💪 Opened PR [#37](https://github.com/hoppscotch/ui/pull/37) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
 5. ❗ Opened issue [#36](https://github.com/hoppscotch/ui/issues/36) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
