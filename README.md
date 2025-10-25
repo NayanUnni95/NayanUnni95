@@ -7,8 +7,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/hoppscotch/ui/issues/36#issuecomment-3303760148) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
-2. ❗ Opened issue [#363](https://github.com/TheByteFlow/Inker/issues/363) in [TheByteFlow/Inker](https://github.com/TheByteFlow/Inker)
+1. 💪 Opened PR [#152](undefined) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+2. ❗ Opened issue [#151](https://github.com/ente-io/privacypack/issues/151) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
 3. 🗣 Commented on [#96](https://github.com/sunithvs/devb.io/issues/96#issuecomment-2913357867) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 4. 💪 Opened PR [#37](https://github.com/hoppscotch/ui/pull/37) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
 5. ❗ Opened issue [#36](https://github.com/hoppscotch/ui/issues/36) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
