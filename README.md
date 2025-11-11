@@ -7,11 +7,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#163](https://github.com/ente-io/privacypack/issues/163) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
-2. ❗ Opened issue [#162](https://github.com/ente-io/privacypack/issues/162) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
-3. 🗣 Commented on [#86](https://github.com/sunithvs/devb.io/issues/86#issuecomment-3515628766) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
-4. 💪 Opened PR [#156](undefined) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
-5. ❗ Opened issue [#155](https://github.com/ente-io/privacypack/issues/155) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+1. ❗ Opened issue [#165](https://github.com/ente-io/privacypack/issues/165) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+2. ❗ Opened issue [#164](https://github.com/ente-io/privacypack/issues/164) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+3. ❗ Opened issue [#163](https://github.com/ente-io/privacypack/issues/163) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+4. ❗ Opened issue [#162](https://github.com/ente-io/privacypack/issues/162) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+5. 🗣 Commented on [#86](https://github.com/sunithvs/devb.io/issues/86#issuecomment-3515628766) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 <!--END_SECTION:activity-->
 
 <!--
