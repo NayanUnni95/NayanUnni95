@@ -7,8 +7,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#166](undefined) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
-2. ❌ Merged PR [#168](undefined) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+1. 🎉 Merged PR [#166](https://github.com/ente-io/privacypack/pull/166) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
+2. 🎉 Merged PR [#168](https://github.com/ente-io/privacypack/pull/168) in [ente-io/privacypack](https://github.com/ente-io/privacypack)
 3. 💪 Opened PR [#116](undefined) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 4. 🗣 Commented on [#114](https://github.com/sunithvs/devb.io/issues/114#issuecomment-3559496036) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 5.  Labeled issue [#114](https://github.com/sunithvs/devb.io/issues/114) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
