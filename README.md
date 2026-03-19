@@ -7,8 +7,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2673](https://github.com/gtech-mulearn/mulearnbackend/pull/2673) in [gtech-mulearn/mulearnbackend](https://github.com/gtech-mulearn/mulearnbackend)
-2. 💪 Opened PR [#32421](https://github.com/is-a-dev/register/pull/32421) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ℹ️ Assigned PR [#2](https://github.com/NayanUnni95/sathwa/pull/2) in [NayanUnni95/sathwa](https://github.com/NayanUnni95/sathwa)
+2. 💪 Opened PR [#2673](https://github.com/gtech-mulearn/mulearnbackend/pull/2673) in [gtech-mulearn/mulearnbackend](https://github.com/gtech-mulearn/mulearnbackend)
 3. 💪 Opened PR [#116](undefined) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 4. 🗣 Commented on [#114](https://github.com/sunithvs/devb.io/issues/114#issuecomment-3559496036) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 5.  Labeled issue [#114](https://github.com/sunithvs/devb.io/issues/114) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
