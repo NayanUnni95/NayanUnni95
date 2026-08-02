@@ -7,7 +7,7 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2](https://github.com/NayanUnni95/sathwa/pull/2) in [NayanUnni95/sathwa](https://github.com/NayanUnni95/sathwa)
+1. 🗣 Commented on [#39](https://github.com/tinkerhub0/mothership/pull/39#issuecomment-5155461455) in [tinkerhub0/mothership](https://github.com/tinkerhub0/mothership)
 2. 💪 Opened PR [#2673](https://github.com/gtech-mulearn/mulearnbackend/pull/2673) in [gtech-mulearn/mulearnbackend](https://github.com/gtech-mulearn/mulearnbackend)
 3. 💪 Opened PR [#116](undefined) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 4. 🗣 Commented on [#114](https://github.com/sunithvs/devb.io/issues/114#issuecomment-3559496036) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
