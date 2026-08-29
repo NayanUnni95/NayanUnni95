@@ -7,9 +7,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-2. 💪 Opened PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-3. 💪 Opened PR [#116](undefined) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
+1. 💪 Opened PR [#2](https://github.com/makemypresence/MakeMyPresenceFR/pull/2) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+2. 🎉 Merged PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+3. 💪 Opened PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
 4. 🗣 Commented on [#114](https://github.com/sunithvs/devb.io/issues/114#issuecomment-3559496036) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 5.  Labeled issue [#114](https://github.com/sunithvs/devb.io/issues/114) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
 <!--END_SECTION:activity-->
