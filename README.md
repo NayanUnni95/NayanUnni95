@@ -7,11 +7,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/makemypresence/MakeMyPresenceFR/pull/2) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-2. 💪 Opened PR [#2](https://github.com/makemypresence/MakeMyPresenceFR/pull/2) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-3. 🎉 Merged PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-4. 💪 Opened PR [#1](https://github.com/makemypresence/MakeMyPresenceFR/pull/1) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-5.  Labeled issue [#114](https://github.com/sunithvs/devb.io/issues/114) in [sunithvs/devb.io](https://github.com/sunithvs/devb.io)
+1. 🎉 Merged PR [#4](https://github.com/makemypresence/MakeMyPresenceFR/pull/4) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+2. 💪 Opened PR [#4](https://github.com/makemypresence/MakeMyPresenceFR/pull/4) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+3. 🎉 Merged PR [#3](https://github.com/makemypresence/MakeMyPresenceFR/pull/3) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+4. 💪 Opened PR [#3](https://github.com/makemypresence/MakeMyPresenceFR/pull/3) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+5. 🎉 Merged PR [#2](https://github.com/makemypresence/MakeMyPresenceFR/pull/2) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
 <!--END_SECTION:activity-->
 
 <!--
