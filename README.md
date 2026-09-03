@@ -7,8 +7,8 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/makemypresence/MakeMyPresenceFR/pull/4) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
-2. 💪 Opened PR [#4](https://github.com/makemypresence/MakeMyPresenceFR/pull/4) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
+1. 🔒 Closed issue [#36](https://github.com/hoppscotch/ui/issues/36) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
+2. ❌ Closed PR [#37](https://github.com/hoppscotch/ui/pull/37) in [hoppscotch/ui](https://github.com/hoppscotch/ui)
 3. 🎉 Merged PR [#3](https://github.com/makemypresence/MakeMyPresenceFR/pull/3) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
 4. 💪 Opened PR [#3](https://github.com/makemypresence/MakeMyPresenceFR/pull/3) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
 5. 🎉 Merged PR [#2](https://github.com/makemypresence/MakeMyPresenceFR/pull/2) in [makemypresence/MakeMyPresenceFR](https://github.com/makemypresence/MakeMyPresenceFR)
